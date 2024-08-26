@@ -1,0 +1,30 @@
+.nav{
+  border-bottom-style:inset;
+}
+.align{
+justify-content: space-between !important;
+  margin-left: 400px !important;
+  font-weight: bold;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.design{
+  padding-left:50px !important;
+  text-decoration: none !important; 
+  color:grey !important;
+}
+a:focus,a:hover {
+  color:rgba(34, 160, 3, 0.8) !important;
+}
+.alignment{
+  padding-top: 30px;
+  display: flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+
+}
+.designs{
+  margin-top:20px;
+  height:250px;
+  border-color: whitesmoke;
+}
